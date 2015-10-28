@@ -20,7 +20,7 @@
   [
       {
           "matches": ["*://*/*"],
-          "js": ["jquery.js", "content.js"],
+          "js": ["jquery.js", "jquery.ba-throttle-debounce.js", "content.js"],
           "run_at": "document_end"
       }
   ],
